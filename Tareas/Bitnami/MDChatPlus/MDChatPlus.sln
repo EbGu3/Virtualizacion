@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDChatPlus", "MDChatPlus.csproj", "{DFC40DFC-99C3-4079-9CC8-E5C1EA96E27A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFC40DFC-99C3-4079-9CC8-E5C1EA96E27A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC40DFC-99C3-4079-9CC8-E5C1EA96E27A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC40DFC-99C3-4079-9CC8-E5C1EA96E27A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC40DFC-99C3-4079-9CC8-E5C1EA96E27A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBEC607A-C4C5-48BE-B100-ADF947F68C9B}
+	EndGlobalSection
+EndGlobal

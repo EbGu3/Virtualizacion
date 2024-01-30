@@ -1,0 +1,15 @@
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Bitnami\MDChatPlus\bin\Debug\net7.0\MDChatPlus.deps.json
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Bitnami\MDChatPlus\bin\Debug\net7.0\MDChatPlus.runtimeconfig.json
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Bitnami\MDChatPlus\bin\Debug\net7.0\MDChatPlus.dll
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Bitnami\MDChatPlus\bin\Debug\net7.0\MDChatPlus.pdb
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Bitnami\MDChatPlus\obj\Debug\net7.0\MDChatPlus.csproj.AssemblyReference.cache
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Bitnami\MDChatPlus\obj\Debug\net7.0\MDChatPlus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Bitnami\MDChatPlus\obj\Debug\net7.0\MDChatPlus.AssemblyInfoInputs.cache
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Bitnami\MDChatPlus\obj\Debug\net7.0\MDChatPlus.AssemblyInfo.cs
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Bitnami\MDChatPlus\obj\Debug\net7.0\MDChatPlus.csproj.CoreCompileInputs.cache
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Bitnami\MDChatPlus\obj\Debug\net7.0\MDChatPlus.dll
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Bitnami\MDChatPlus\obj\Debug\net7.0\refint\MDChatPlus.dll
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Bitnami\MDChatPlus\obj\Debug\net7.0\MDChatPlus.pdb
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Bitnami\MDChatPlus\obj\Debug\net7.0\MDChatPlus.genruntimeconfig.cache
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Bitnami\MDChatPlus\obj\Debug\net7.0\ref\MDChatPlus.dll
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Bitnami\MDChatPlus\obj\Debug\net7.0\MDChatPlus.sourcelink.json

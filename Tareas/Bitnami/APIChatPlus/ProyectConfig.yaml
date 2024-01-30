@@ -1,0 +1,6 @@
+DBConfiguracion:
+    DBUsuario       : postgres
+    DBContrasenya   : sa
+    DBServidor      : localhost
+    DBPuerto        : 5432
+    DBNombre        : chat_plus
