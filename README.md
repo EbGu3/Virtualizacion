@@ -2,6 +2,6 @@
 
 ## Microsoft Orlenads .NET 8
   * Required </br>
-    -> Microsoft.Orleans.Server
+    -> Microsoft.Orleans.Server </br>
     -> Microsoft.Orleans.Core
   
