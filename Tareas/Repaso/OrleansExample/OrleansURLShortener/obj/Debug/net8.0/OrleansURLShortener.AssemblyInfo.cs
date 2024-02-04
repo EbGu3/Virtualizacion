@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OrleansURLShortener")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e95ca9bd341426b5f0deb324a8a3ec22658a4fae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00cd01986daa43a4d966af7afef8abf2511a7012")]
 [assembly: System.Reflection.AssemblyProductAttribute("OrleansURLShortener")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OrleansURLShortener")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
