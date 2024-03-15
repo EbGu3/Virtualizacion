@@ -1,0 +1,12 @@
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Repaso\OrleansExample\StockDAL\bin\Debug\net8.0\StockDAL.deps.json
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Repaso\OrleansExample\StockDAL\bin\Debug\net8.0\StockDAL.dll
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Repaso\OrleansExample\StockDAL\bin\Debug\net8.0\StockDAL.pdb
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Repaso\OrleansExample\StockDAL\obj\Debug\net8.0\StockDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Repaso\OrleansExample\StockDAL\obj\Debug\net8.0\StockDAL.AssemblyInfoInputs.cache
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Repaso\OrleansExample\StockDAL\obj\Debug\net8.0\StockDAL.AssemblyInfo.cs
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Repaso\OrleansExample\StockDAL\obj\Debug\net8.0\StockDAL.csproj.CoreCompileInputs.cache
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Repaso\OrleansExample\StockDAL\obj\Debug\net8.0\StockDAL.sourcelink.json
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Repaso\OrleansExample\StockDAL\obj\Debug\net8.0\StockDAL.dll
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Repaso\OrleansExample\StockDAL\obj\Debug\net8.0\refint\StockDAL.dll
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Repaso\OrleansExample\StockDAL\obj\Debug\net8.0\StockDAL.pdb
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Repaso\OrleansExample\StockDAL\obj\Debug\net8.0\ref\StockDAL.dll

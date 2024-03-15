@@ -16,12 +16,10 @@ namespace APIChatPlus
 {
     public class Program
     {
-
-
-        public static void Main(string[] args)
-        {
+        public static void Main (string[ ] args)
+        {            
             // Todo: Get Variables
-            var variablesEntorno = GetVariablesEntorno();
+            VariablesEntornoVM variablesEntorno = GetVariablesEntorno();
 
             if (string.IsNullOrEmpty(variablesEntorno.DBConfiguracion.DBPuerto))
                 Logs.WriteDebug("Variable de entorno no definida. Nombre => DBPuerto");
@@ -96,12 +94,10 @@ namespace APIChatPlus
             if (!File.Exists(archivoConfiguracionProyecto))
                 throw new Exception($"Configuraciones del proyecto no encontrados. Ruta = {archivoConfiguracionProyecto}");
 
-
-            
             var yamlFile = File.ReadAllText(archivoConfiguracionProyecto, System.Text.Encoding.UTF8);
             var dataYaml = new DeserializerBuilder()
                                                     .IgnoreUnmatchedProperties()
-                                                    .Build()   
+                                                    .Build()
                                                     .Deserialize<VariablesEntornoVM>(yamlFile);
 
             return dataYaml;

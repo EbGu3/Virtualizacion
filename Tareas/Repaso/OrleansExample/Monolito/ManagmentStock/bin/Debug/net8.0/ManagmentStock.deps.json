@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ManagmentStock/1.0.0": {
+        "dependencies": {
+          "StockDAL": "1.0.0"
+        },
+        "runtime": {
+          "ManagmentStock.dll": {}
+        }
+      },
+      "StockDAL/1.0.0": {
+        "runtime": {
+          "StockDAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ManagmentStock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StockDAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

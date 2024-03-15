@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIChatPlus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+564dd7bf06a688a6367ce062389d97ab6ef4a316")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70d2db17012585d899bbc9cbafc68e2d26e22a47")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIChatPlus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIChatPlus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

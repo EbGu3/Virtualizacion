@@ -1,0 +1,4 @@
+5e74d683d98749a78fbb1a9d88cca0e5490184726 | IPad Mini | IOS 16, Color rojo, Ram 8 GB | True | 10
+f2d38b7e0f40475ea95a9b1d5802ab3e503184726 | Samsung Tablet | Android 18, Color azul, Ram 12 GB | True | 4
+1ae0ef9451074462b7980a1111586bf2503184726 | Razer Blade | Windows 10 Home, Ram 32GB, SSD 1TB | True | 4
+1cf9d40279624d5bb0759fc20a99eaae503184726 | Sony Audifonos | Bluetooth, Color Negro, 12 horas de uso | True | 4

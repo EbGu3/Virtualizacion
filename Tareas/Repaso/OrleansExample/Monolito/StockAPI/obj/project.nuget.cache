@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "FK3lkpTa/LDxA2Rq29TNHwBV9XN3101IIaO4ACm39cKa5/EEFkO2felVnnhscR8GSbriGbqfFoIZHEVHT5vx/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ebgue\\Documents\\Backup\\Personal\\URL\\Electivo-Virtualizacion\\Virtualizacion\\Tareas\\Repaso\\OrleansExample\\StockAPI\\StockAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ebgue\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\ebgue\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ebgue\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\ebgue\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\ebgue\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\ebgue\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
