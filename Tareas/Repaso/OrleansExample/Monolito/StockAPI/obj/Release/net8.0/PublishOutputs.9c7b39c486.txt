@@ -1,0 +1,11 @@
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Repaso\OrleansExample\Monolito\StockAPI\obj\Release\net8.0\PubTmp\Out\StockAPI.exe
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Repaso\OrleansExample\Monolito\StockAPI\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Repaso\OrleansExample\Monolito\StockAPI\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Repaso\OrleansExample\Monolito\StockAPI\obj\Release\net8.0\PubTmp\Out\StockAPI.dll
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Repaso\OrleansExample\Monolito\StockAPI\obj\Release\net8.0\PubTmp\Out\StockAPI.deps.json
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Repaso\OrleansExample\Monolito\StockAPI\obj\Release\net8.0\PubTmp\Out\StockAPI.runtimeconfig.json
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Repaso\OrleansExample\Monolito\StockAPI\obj\Release\net8.0\PubTmp\Out\StockAPI.pdb
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Repaso\OrleansExample\Monolito\StockAPI\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Repaso\OrleansExample\Monolito\StockAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Repaso\OrleansExample\Monolito\StockAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ebgue\Documents\Backup\Personal\URL\Electivo-Virtualizacion\Virtualizacion\Tareas\Repaso\OrleansExample\Monolito\StockAPI\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

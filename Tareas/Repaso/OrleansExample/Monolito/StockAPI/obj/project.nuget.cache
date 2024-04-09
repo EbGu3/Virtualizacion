@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FK3lkpTa/LDxA2Rq29TNHwBV9XN3101IIaO4ACm39cKa5/EEFkO2felVnnhscR8GSbriGbqfFoIZHEVHT5vx/w==",
+  "dgSpecHash": "lX9Iyy1y386GAfint58AjRaBkeE7h25+WOmCEfjqjZqJiVVQKeVnez3EhJIa/iSlWI2zkH3h63wE19OyXdQYhg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ebgue\\Documents\\Backup\\Personal\\URL\\Electivo-Virtualizacion\\Virtualizacion\\Tareas\\Repaso\\OrleansExample\\StockAPI\\StockAPI.csproj",
+  "projectFilePath": "C:\\Users\\ebgue\\Documents\\Backup\\Personal\\URL\\Electivo-Virtualizacion\\Virtualizacion\\Tareas\\Repaso\\OrleansExample\\Monolito\\StockAPI\\StockAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ebgue\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\ebgue\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
