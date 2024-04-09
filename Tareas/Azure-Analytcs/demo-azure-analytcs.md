@@ -59,8 +59,3 @@
 </p>
 
 ![image](https://github.com/EbGu3/Virtualizacion/assets/54523553/4ef3305b-be18-41e4-a821-2624e5b012f2)
-
-<p>
-  Paso 6:
-  
-</p>
